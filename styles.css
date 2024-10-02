@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding: 0;
+    text-align: center;
+    background-color: rgba(64, 37, 37, 0.84);
+}
+#screen{
+    width: 550px;
+    height: 550px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+}
+.head{
+    background-color: blueviolet !important; 
+}
+.apple{
+    background-color: red !important; 
+}
+#screen div{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(59, 85, 85);
+}
